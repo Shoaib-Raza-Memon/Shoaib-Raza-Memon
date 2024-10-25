@@ -8,7 +8,7 @@
 <img align="right" alt="Coding GIF" width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 
-- 👨‍💻 All of my projects are available at [bilalattari.com](bilalattari.com) 
+- 👨‍💻 All of my projects are available at https://devoleper-portfolio-shoaib-raza.netlify.app/
 
 - 💬 Ask me about **React , React Native. Next Js**
 
